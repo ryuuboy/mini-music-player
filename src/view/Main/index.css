@@ -1,0 +1,9 @@
+.graphical-player {
+    flex: 1;
+    /*width: calc(100vw - 260px);*/
+    height: calc(100vh - 72px);
+    background-color: #000000;
+}
+.music-player {
+    /*visibility: hidden;*/
+}
